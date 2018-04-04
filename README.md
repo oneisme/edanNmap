@@ -10,11 +10,10 @@ Aplikasi rentan terhadap Cross Site Port Attacks jika aplikasi memproses URL yan
 Memasang dan Menggunakan anoNmap
 Buka terminal dan masukkan
 
-git clone https://github.com/UltimateHackers/anoNmap/
-Sekarang navigasikan ke skrip dengan memasukkan
+git clone https://github.com/oneisme/edanNmap.git
 
 cd anoNmap
 Akhirnya, jalankan skrip dengan memasukkan
 
-python port.py
+python edanNmap.py
 Anda dapat memasukkan alamat IP ...
