@@ -12,7 +12,7 @@ Buka terminal dan masukkan
 
 git clone https://github.com/oneisme/edanNmap.git
 
-cd anoNmap
+cd edanNmap
 Akhirnya, jalankan skrip dengan memasukkan
 
 python edanNmap.py
