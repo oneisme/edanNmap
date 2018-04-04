@@ -17,3 +17,6 @@ Akhirnya, jalankan skrip dengan memasukkan
 
 python edanNmap.py
 Anda dapat memasukkan alamat IP ...
+# Bagaimana mencari cookies Facebook
+# Buka browser Anda dan arahkan ke alat pengembang -> Jaringan. Ini adalah fitur yang datang preinsalled di sebagian besar browser modern. Di Firefox, Anda dapat membukanya dengan menekan Ctrl + Shift + Q. Setelah membukanya, kunjungi halaman dan facebook dan Anda akan melihat semua permintaan yang dibuat oleh pengguna di panel pengembang. Klik pada setiap permintaan dan temukan dan salin nilai Cookie dari Header. Catatan: Jika anoNmap menunjukkan semua port sebagai tertutup, maka pertimbangkan untuk meningkatkan nilai batas waktu.
+Kaliyan bisa cari cookies di google
