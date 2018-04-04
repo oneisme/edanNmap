@@ -7,7 +7,7 @@ Saya menemukan kerentanan XSPA di API pengembang Facebook dan saya melaporkannya
 Apa itu kerentanan XSPA?
 Aplikasi rentan terhadap Cross Site Port Attacks jika aplikasi memproses URL yang diberikan pengguna dan tidak memverifikasi / membersihkan respons backend yang diterima dari server jauh sebelum mengirimnya kembali ke klien. Tanggapan, dalam kasus-kasus tertentu, dapat dipelajari untuk mengidentifikasi ketersediaan layanan (status port, spanduk, dll.) Dan bahkan mengambil data dari layanan jarak jauh dengan cara yang tidak konvensional.
 
-Memasang dan Menggunakan anoNmap
+Memasang dan Menggunakan edanNmap
 Buka terminal dan masukkan
 
 git clone https://github.com/oneisme/edanNmap.git
